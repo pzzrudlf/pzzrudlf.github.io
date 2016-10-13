@@ -1,0 +1,8 @@
+span{
+	display: inline-block;
+	padding-left:0em;
+}
+
+span.indent{
+	padding-left:2em;
+}
